@@ -1,6 +1,11 @@
-# 💫 About Me:
-# 👋 Hey there, I'm Ansh Budhiraja!<br><br>🚀 I'm a passionate **Full-Stack Developer** currently diving deep into the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  <br>💻 I love building full-fledged web apps and exploring the depths of modern backend and frontend development.<br><br>## 🌱 Currently Working On:<br>- Personal projects using **React.js** and **Node.js**<br>- Enhancing my knowledge of **backend architectures** and **API design**<br>- Solving advanced **Data Structures & Algorithms** problems on **LeetCode**<br><br>## 🧠 Learning Goals:<br>- Mastering topics like **Dynamic Programming**, **Graphs**, and **System Design**<br>- Writing clean, scalable, and performant code<br><br>## 💬 Ask Me About:<br>- MERN Stack Development<br>- RESTful APIs & backend tech<br>- DSA strategies and LeetCode grind tips<br><br><br>## 📫 Let's Connect!<br>- Email: anshbudhiraja72@gmail.com<br><br>---<br><br>> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+# 👋 Hey there, I'm Ansh Budhiraja!
+🚀 Full-Stack Developer | MERN Stack Enthusiast  
+🛠️ Building cool things with **React.js** & **Node.js**  
+🧠 Grinding advanced DSA on **LeetCode**
+## 💡 What I'm Up To:
+- Improving backend skills (APIs, Auth, Databases)
+- Solving tricky problems: DP, Graphs, and more
+- Building personal projects to sharpen real-world skills
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Anshbudhiraja72@gmail.com) 
