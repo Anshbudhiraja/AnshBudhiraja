@@ -1,4 +1,4 @@
-# Ansh Budhiraja
+# 👋 Hey there, I'm Ansh Budhiraja!
 ### Software Engineer — Node.js, TypeScript, Cloud Infrastructure
 
 I build backend systems that have to be right — the kind moving money, inventory, and access permissions where a bug means someone's ledger doesn't balance.
